@@ -1,0 +1,4 @@
+npx create-next-app@latest front-end --ts --eslint --tailwind
+cd front-end
+
+npm run dev
